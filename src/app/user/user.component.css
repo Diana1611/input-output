@@ -1,0 +1,16 @@
+:host{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    line-height: 30px;
+}
+
+
+
+.left, .right{
+    flex: 1;
+    
+}
+button{
+    float: right;
+}
